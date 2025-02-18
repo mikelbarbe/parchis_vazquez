@@ -1,0 +1,45 @@
+.tabla{
+    background-color: white;
+    align-self: center;
+    border: 1px solid black;
+    
+    margin: auto;
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+.td1{
+    border: 1px solid black;
+    width: 40px;
+    height: 80px;
+}
+.td2{
+    border: 1px solid black;
+    width: 80px;
+    height: 40px;
+    overflow: hidden;
+}
+
+.lau{
+    background-image: url(img/lau.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.valen{
+    background-image: url(img/valen.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.marisa{
+    background-image: url(img/marisa.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.mikel{
+    background-image: url(img/IMG_2086.JPG);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
